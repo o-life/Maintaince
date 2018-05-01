@@ -10,4 +10,4 @@ else
 version = raw_input('请输入你想安装的版本')
 if version='2.7':
     url=''
-    
+
